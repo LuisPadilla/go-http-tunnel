@@ -1,0 +1,76 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",LA_FHD:Caracol TV
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/9959.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",Disney Channel
+http://1skytv.com:8889/live/xWzpQ8Y3BX/fsIFRfBhvG/2215.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",LA..HQ:Cinecanal
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/75299.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",LA_HD_MEX2:Boomerang HD
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/58594.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",LA..HQ:History 2
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/75338.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",*ARG_HD:History Channel
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/60526.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",LA..LQ:Discovery Investigation
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/75243.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",LA..LQ:Discovery Kids
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/75274.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",LA..LQ:Discovery Science
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/75237.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",LA..LQ:Discovery TLC
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/75246.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",LA..LQ:Discovery Theater
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/75238.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",LA..LQ:Discovery World
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/75240.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",LA_FHD3:Discovery Civilization HD
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/53560.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",LA_FHD3:Cartoon Network HD
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/53566.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",*ARG_HD:Nat Geo Kids
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/60510.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",*ARG_HD:Nat Geo Wild
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/60511.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",COMEDY CENTRAL HD HEVC
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/70134.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",*ARG_HD:ESPN
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/60560.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",*ARG_HD:ESPN 2
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/60559.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",*ARG_HD:ESPN 3
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/60558.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",*ARG_HD:ESPN+
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/68870.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",LA_FHD2:Win Sports HD
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/35752.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",LA_FHD:Win Sports Plus
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/73658.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",*ARG_HD:Fox Sports
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/60543.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",*ARG_HD:Fox Sports 2
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/60542.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",*ARG_HD:Fox Sports 3
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/60541.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",*ARG_HD:Fox Sports Premium
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/60540.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",LA_FHD2:Golden Premier HD
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/35799.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",LA_HD_MEX2:Golden
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/58527.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",LA_HD_MEX2:Golden Edge
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/58526.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",LA_HD_MEX2:Golden Plus HD
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/58525.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",*ARG_HD:Cinemax
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/60576.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",*ARG_HD:HBO
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/60532.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",*ARG_HD:HBO Family
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/60530.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",*ARG_SD: HBO 2
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/75767.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",*ARG_HD:HBO Plus
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/60529.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",*ARG_HD:Tooncast
+http://wohuogai.com:37000/live/5bPitTMLmw/rdFjNYkMdz/60485.ts?checkedby:hlscat.com
